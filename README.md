@@ -6,13 +6,13 @@ Jaya Jaya Institut merupakan salah satu institusi pendidikan perguruan yang tela
 
 ### Permasalahan Bisnis
 
-1. **Tingkat Dropout yang Tinggi** : Jumlah siswa yang tidak menyelesaikan pendidikan atau dropout dari Jaya Jaya Institut cukup signifikan. Ini bisa berdampak negatif pada reputasi institusi dan juga mengurangi potensi pendapatan dari jumlah siswa yang lulus
+1. **Tingkat Dropout yang Tinggi** : Jumlah siswa yang meninggalkan sekolah atau meninggalkan Jaya Jaya Institut sangat besar. Ini dapat membahayakan reputasi institusi dan mengurangi pendapatan dari jumlah siswa yang lulus.
 
-2. **Resiko Kehilangan Potensi** : Setiap siswa yang dropout mewakili potensi yang hilang dalam hal kontribusi akademisi, karir, dan potensi kontribusi sosial yang bisa mereka berikan.
+2. **Resiko Kehilangan Potensi** : Setiap siswa yang meninggalkan sekolah mewakili potensi yang hilang dalam hal kontribusi akademik, karir, dan sosial.
 
-3. **Kebutuhan untuk Interenvensi Dini** : Institusi perlu mendeteksi siswa yang beresiko tinggi dropout secepat mungkin agar mereka dapat memberikan bimbingan khusus dan intervensi yang dibutuhkan untuk membantu siswa tersebut menyelesaikan pendidikannya.
+3. **Kebutuhan untuk Interenvensi Dini** : Institusi harus segera mengidentifikasi siswa dengan risiko dropout yang tinggi agar mereka dapat memberikan bimbingan khusus dan intervensi yang diperlukan untuk membantu siswa menyelesaikan pendidikannya.
 
-4. **Kebutuhan Dashboard** : Dalam rangka memantau performa siswa dan mengidentifikasi siswa yang beresiko tinggi untuk dropout, diperlukan pengembangan dashboard yang dapat memberikan informasi yang relevan dan mudah dimengerti oleh pihak institusi pendidikan. Ini memungkinkan mereka untuk mengambil tindakan secara proaktif.
+4. **Kebutuhan Dashboard** : Diperlukan dashboard yang dapat memberikan informasi yang relevan dan mudah dipahami sehingga institusi pendidikan dapat mengambil tindakan proaktif untuk memantau prestasi siswa dan mengidentifikasi siswa yang berpotensi gagal.
 
 5. **Penyelidikan Faktor Penyebab** : Penting untuk menyelidiki faktor-faktor yang mungkin menyebabkan tingginya tingkat dropout, seperti masalah akademik, masalah keuangan, masalah pribadi, atau kurangnya dukungan sosial.
 
@@ -147,7 +147,7 @@ Untuk mendalami dan memprediksi siswa yang rentan mengalami dropout, penulis mem
 4. Gradient Boosting (accuracy : 91%)
 5. XGBClassifier (accuracy : 90%)
 
-Sehingga didapatkan bahwa model yang cocok untuk prediksi pada proyek ini yaitu Gradient Boosting. Dimana model tersebut menggunakan pc1_1 sebagai fitur utama dalam menghasilkan sebuah prediksi.
+Jadi, kami menemukan bahwa Gradient Boosting adalah model yang tepat untuk prediksi proyek ini, dan model ini menggunakan pc1_1 sebagai fitur utama untuk membuat prediksi.
 
 
 
@@ -155,8 +155,8 @@ Sehingga didapatkan bahwa model yang cocok untuk prediksi pada proyek ini yaitu 
 
 Berdasarkan data yang sudah dianalisis, didapatkan bahwa Jaya Jaya institusi dapat melakukan beberapa aksi untuk mencegah siswa mengalami dropout : </br>
 
-1. Analisis Kinerja Akademik: Tinjau data mengenai mata kuliah yang diambil, kehadiran di kelas, kualifikasi sebelumnya, dan nilai-nilai untuk mengevaluasi kinerja akademik siswa dan mengidentifikasi area yang memerlukan perbaikan.
-2. Melakukan Pengembangan Program Dukungan: Berdasarkan data tentang kebutuhan pendidikan khusus, status keuangan, dan kualifikasi orang tua, institusi dapat mengembangkan program-program dukungan yang sesuai untuk meningkatkan kesejahteraan dan kinerja siswa.
-3. Melakukan Pemantauan Pembayaran Uang Kuliah: Tinjau data tentang status keterlambatan pembayaran uang kuliah dan status utang siswa untuk memastikan ketersediaan sumber daya keuangan yang memadai bagi siswa dan menangani masalah keuangan yang mungkin mempengaruhi kelancaran pendidikan mereka.
-4. Analisis Dampak Faktor Ekonomi: Tinjau data tentang tingkat pengangguran, tingkat inflasi, dan GDP untuk memahami dampak faktor ekonomi terhadap pendidikan dan kesejahteraan siswa.
-5. Pengembangan Program Beasiswa: Berdasarkan data tentang penerima beasiswa, institusi dapat mengembangkan program beasiswa yang sesuai untuk mendukung siswa berprestasi dan berkebutuhan finansial.
+1. Analisis Kinerja Akademik: Untuk mengevaluasi kinerja akademik siswa dan menemukan area perbaikan, tinjau data tentang mata kuliah yang diambil, kehadiran di kelas, kualifikasi sebelumnya, dan nilai.
+2. Melakukan Pengembangan Program Dukungan: Institusi dapat membuat inisiatif untuk meningkatkan kesehatan dan kinerja siswa dengan mengumpulkan data tentang kebutuhan pendidikan khusus, status keuangan, dan kemampuan orang tua.
+3. Melakukan Pemantauan Pembayaran Uang Kuliah: Tinjau data tentang utang siswa dan keterlambatan pembayaran uang kuliah untuk memastikan bahwa siswa memiliki sumber daya keuangan yang memadai dan untuk mengatasi masalah keuangan yang mungkin mengganggu pendidikan mereka.
+4. Analisis Dampak Faktor Ekonomi: Untuk memahami dampak faktor ekonomi terhadap pendidikan dan kesejahteraan siswa, tinjau data tentang tingkat pengangguran, tingkat inflasi, dan PDB.
+5. Pengembangan Program Beasiswa: Institusi dapat membuat program beasiswa yang tepat untuk membantu siswa yang berprestasi dan berkebutuhan keuangan berdasarkan data penerima beasiswa.
