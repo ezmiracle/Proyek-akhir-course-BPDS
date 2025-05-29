@@ -113,7 +113,7 @@ Dimana jika sistem berhasil melakukan prediksi, maka akan mengeluarkan status se
 
 
 Sistem prediksi ini dapat dilihat pada link berikut :
-[https://dicoding-data-scientist-expert-final.streamlit.app/](https://dicoding-data-scientist-expert-final.streamlit.app/)
+https://proyek-akhir-course-bpds-diazdarsya.streamlit.app/ 
 
 ## Conclusion
 
